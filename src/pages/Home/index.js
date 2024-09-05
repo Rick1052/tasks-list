@@ -89,7 +89,7 @@ function Home() {
                         padding: 3,
                         borderRadius: 1,
                         bgcolor: '#fefe',
-                        boxShadow: '0px 0px 20px black',
+                        boxShadow: '0px 0px 15px gray inset',
                         display: 'flex',
                         flexDirection: 'column',
                         gap: 1
